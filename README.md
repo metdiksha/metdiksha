@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey 👋, This is Diksha
 - 🔭 I’m currently working on strengthing my skill set
 - 🌱 I’m currently learning Cyber Security and Web Development
-- - 👯 I’m looking to collaborate on Cyber Security Projects
+- 👯 I’m looking to collaborate on Cyber Security Projects
 - 💬 Ask me anything related to Python
 
 <!--
