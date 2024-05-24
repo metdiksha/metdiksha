@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey 👋, This is Diksha
+
+[![Linkedin Badge](https://img.shields.io/badge/-[LINKEDIN]-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[LINKEDIN]/)](https://www.linkedin.com/in/[LINKEDIN]/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=[PORTFOLIO]/)]([PORTFOLIO]/) <p align='left'>[ABOUT ME]</p><p align='left'> You can view my resume <a href='[RESUME] ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=[GITHUB USERNAME] alt=[GITHUB USERNAME] /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&include_all_commits=true)](https://github.com/[GITHUB USERNAME]/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB USERNAME]&layout=compact)](https://github.com/[GITHUB USERNAME]/github-readme-stats)
